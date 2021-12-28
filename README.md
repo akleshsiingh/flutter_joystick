@@ -7,7 +7,7 @@ A simple take on creating joystick which can be easily modified and reused.
 This is just a one widget joystick, plase share your views
 
 For detailed explanation
-- https://medium.com/@akleshsiingh/flutter-analog-dial-gauge-dc5e0f95c6aa
+- https://medium.com/@akleshsiingh/flutter-joystick-cae2d7212c9d
 
 
 ![image](https://user-images.githubusercontent.com/28624436/147547780-456d9f10-5f7d-41c0-9420-4fe46bb18c83.png)
